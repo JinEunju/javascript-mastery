@@ -144,7 +144,7 @@ let numsAver = newNums.reduce((sum, value) => {
 const resultAver = numsAver / newNums.length;
 console.log(resultAver)
 
-/*
+/*-
 답: const result2 = nums
 .filter((num) => num > 5) //16,25,24,21
 .reduce((avg, num, _ ,array) =>  avg + num / 4 , 0)//index는 사용하지 않아서 _로 표시 하였다.
