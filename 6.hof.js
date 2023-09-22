@@ -113,8 +113,6 @@ console.log(numbers)//[ 0, 1, 2, 4, 5, 10 ]
 
 /* 
     reduce: 배열의 요소들을 접어서 접어서 값을 하나로!
-
-
 */
 
 result = [1,2,3,4,5].reduce((sum, value) => { //sum을 전달받을꺼고 value를 더해줄꺼다
