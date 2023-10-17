@@ -16,7 +16,9 @@ const list = ['🍌', '🍓', '🍇', '🍓'];
 //const result = replace(list, '🍓', '🥝');
 //console.log(list, replace(list, '🍓', '🥝'))//[ '🍌', '🍓', '🍇', '🍓' ] [ '🍌', '🥝', '🍇', '🥝' ]
 
-
+function replaceHigh(){
+    
+}
 
 
 
