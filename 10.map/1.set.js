@@ -54,7 +54,6 @@ console.log(objs);//Set(2) { { name: '🍎', price: 8 }, { name: '🍌', price: 
 
 
 
-
 //퀴즈
 obj1.price = 10;
 objs.add(obj1);
@@ -74,6 +73,7 @@ Set(3) {
 */
 obj3.price = 8;
 console.log(objs)
+console.log(obj3, obj2)
 
 
 
